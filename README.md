@@ -1,3 +1,10 @@
 # WebScraping_Python
-Este repositorio alberga ejemplos y apuntes relacionados con el web scraping y el análisis de datos web utilizando Python y BeautifulSoup. El web scraping es una técnica fundamental que permite la extracción automatizada de datos de sitios web, y BeautifulSoup es una poderosa biblioteca de Python.
-https://nbviewer.org/github/JoseAlRic/WebScraping_Python/blob/main/WebScraping_Python.ipynb
+Agradecimientos a mi maestro Álvaro Hernando Camacho Díaz, me gustaría expresar mi agradecimiento por ayudarme a entender el web scraping y análisis de datos web utilizando Python y BeautifulSoup. Este proyecto ha sido una experiencia educativa valiosa y me ha brindado la oportunidad de explorar y aplicar técnicas fundamentales en el campo de la ciencia de datos.
+
+El web scraping, en particular, es una habilidad esencial en un mundo en constante evolución donde la información se encuentra en línea. Gracias a esta técnica, hemos aprendido a automatizar la extracción de datos de sitios web, lo que puede tener una amplia gama de aplicaciones en el mundo real. Desde la recopilación de datos de mercado hasta la creación de bases de datos personalizadas, el web scraping nos permite acceder a información valiosa de manera eficiente.
+
+Además, el uso de BeautifulSoup como una biblioteca de Python ha sido fundamental en este proyecto. Nos ha proporcionado las herramientas necesarias para analizar y estructurar los datos extraídos de manera clara y efectiva. Las funcionalidades de BeautifulSoup, como la búsqueda y extracción de elementos HTML, han sido esenciales para procesar y organizar los datos de manera significativa.
+
+El proyecto que hemos realizado es un ejemplo concreto de cómo estas habilidades pueden aplicarse en la práctica. He creado un banco de datos de anuncios de automóviles, lo que ilustra el potencial del web scraping y la gestión de datos web. Este banco de datos no solo es valioso desde una perspectiva educativa, sino que también puede servir como punto de partida para futuros proyectos y análisis de mercado.
+
+**Nota:** Existe una pequeña cuestión con el archivo **'Web_Scraping_Python.ipynb'**, ya que no se puede visualizar directamente en este momento. No obstante, puedes descargarlo para acceder al contenido. Si tu preferencia es visualizar el archivo sin necesidad de descargarlo, puedes hacerlo mediante el siguiente enlace:https://nbviewer.org/github/JoseAlRic/WebScraping_Python/blob/main/WebScraping_Python.ipynb
